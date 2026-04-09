@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "save-session",
+      "name": "save",
       "description": "Save compressed session notes to Obsidian x-brain vault.",
       "source": "./",
       "category": "productivity"
