@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "save-session",
+  "description": "Saves compressed session summaries to your x-brain Obsidian vault.",
+  "owner": {
+    "name": "Xabilimon1",
+    "url": "https://github.com/Xabilimon1"
+  },
+  "plugins": [
+    {
+      "name": "save-session",
+      "description": "Save compressed session notes to Obsidian x-brain vault.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
